@@ -1,4 +1,5 @@
 @echo off
+pip install certifi
 cd /d %~dp0
 
 title Checking Python installation...
